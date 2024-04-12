@@ -25,7 +25,9 @@
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
 <hr>
-## Collaborative work from Costes Sylvain & Amiar Abd Rezak
+
+## Collaborative work from <span style="color:blue;">Costes Sylvain</span> & <span style="color:blue;">Amiar Abd Rezak</span>
+
 
 ### Main Interface
 
