@@ -26,7 +26,8 @@
 </p>
 <hr>
 
-## Collaborative work from <span style="color:blue;">Costes Sylvain</span> & <span style="color:blue;">Amiar Abd Rezak</span>
+<p>Collaborative work from <code style="color : blue">Costes Sylvain</code> & <code style="color: blue;">Amiar Abd Rezak</code></p>
+
 
 
 ### Main Interface
@@ -147,7 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Special thanks to all contributors and testers.
 - Grateful for the data provided by Ultimate Mushroom.
 - Inspired by the vibrant Python community.
 
